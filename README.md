@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello Odin! I am testing git commit.
